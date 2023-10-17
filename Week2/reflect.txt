@@ -1,0 +1,6 @@
+To me i redo again the rule of five which is very important for this workshop. For me 
+the different between copy and move is different. the copy operator create a new copy of the 
+data while move is they update to make it a new data instead of duplicating it. And duplicate it make
+copy operator way slower than move. The thing i do is that i can make it just inside one specific scope so that 
+it could less likely to get duplicated or being rereading.  I thinking system clock is like the real time in real 
+life but u can change it. But steady clock u cannot return or go backward.

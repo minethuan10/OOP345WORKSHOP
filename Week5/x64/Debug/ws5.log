@@ -1,0 +1,3 @@
+﻿  w5_p2.cpp
+C:\Users\maytinh24gio.com\Downloads\ws5\Book.h(9,27): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  ws5.vcxproj -> C:\Users\maytinh24gio.com\Downloads\ws5\x64\Debug\ws5.exe

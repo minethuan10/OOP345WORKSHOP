@@ -1,0 +1,22 @@
+/***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 1
+// Version 1.0
+// Description
+// tester program
+//
+// Revision History
+// -----------------------------------------------------------
+// Name            Date            Reason
+// Vu Duc Thuan Tran
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+
+1. The reason for defining class object outside is that so that they provide
+their initial values or to specialize them for certain cases. it also easy to control their 
+state
+2. Specialization sets custom initial values for these objects when dealing with
+a 'Collection' of 'Book' object with a capacity with 10.
+3. The initialization for 'Book' and '72' is not needed unless you to use a 'Collection'
+with those specific specific settings. It's only neccessary when you want to customize their 
+initial values for that particular scenario.

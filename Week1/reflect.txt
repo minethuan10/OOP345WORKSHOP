@@ -1,0 +1,24 @@
+/***********************************************************************
+// Intro. to Object Oriented Programming
+// Workshop 1
+// Version 1.0
+// Description
+// tester program
+//
+// Revision History
+// -----------------------------------------------------------
+// Name            Date            Reason
+// Vu Duc Thuan Tran   
+/////////////////////////////////////////////////////////////////
+***********************************************************************/
+1. The external is that u can access from outside of the scope while internal is opposite. 
+Example of external is global scope. Every Scope can access to it. While internal is like 
+value inside a function. If u use it outside of a function it wont work. The example of both can be 
+seen in this function. The g_taxrate and g_discount can be access through other scope because it a 
+global scope while cout cannot be use in the main function because main function cannot access to it.
+2.static values is very useful when u can only initialized it once in the program and it will retain the value 
+through out the program. 
+3.Well in the class i have to change a lot of stuff since the ride description variable have to be accept any 
+length of it. So the first thing i come to mind is the rule of three. So i add a copy constructor
+with destructor to make sure it doesn't have any memory leak in the program itself.
+
